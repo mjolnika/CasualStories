@@ -12,7 +12,7 @@ Cleaning steps:
 4) delete requests, questions, thanksgiving (reddit discourse marks: 'want to hear', 'any ideas', 'tell me' etc)
 
 Sample story:<br>
-_Title_: I just bought my first stock!
+_Title_: I just bought my first stock!<br>
 _Before_: I have been doing a couple weeks of learning and discussing stocks with someone who has been doing it for a couple of decades. I have been patient and waited to make my first move of hopefully plenty more in years to come :) I am excited to see how it goes. I have stacked the odds in my favor and I hope it works out. 
 
 Have you taken steps towards something new recently?
